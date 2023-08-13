@@ -1,3 +1,5 @@
 a=input("Di algo: ")
 
-print(a)
+b= a + " esto escribiste"
+
+print(b)
